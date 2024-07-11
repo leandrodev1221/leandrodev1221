@@ -6,11 +6,11 @@
   - 🧑🏻‍💻 I always work on a project
   - 🤔 How to reach me: [Linkedin](https://www.linkedin.com/in/leandro-andr%C3%A9s-chac%C3%B3n-s%C3%A1nchez-49bbb7318/)
 
-![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
+![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodev1221&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodev1221&layout=compact&theme=dracula&langs_count=8)](https://github.com/leandrodev1221/github-readme-stats)
 
 If you find value in my efforts, you might want to support me by purchasing a coffee/tea. ☕👇
 
-<a href="https://www.buymeacoffee.com/developermithu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/leandrodev1221" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Technologies and Languages 
 
@@ -31,6 +31,6 @@ If you find value in my efforts, you might want to support me by purchasing a co
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!---
-developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+leandrodev1221/leandrodev1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
