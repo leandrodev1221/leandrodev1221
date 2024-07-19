@@ -1,16 +1,38 @@
-## Hi there 👋
+##  👋  Hello, I'm Leandro!
 
-  - 🌱 I’m currently learning Typescript & React  
-  - 💞️ I’m looking to collaborate on Laravel and Livewire community
-  - 👀 I’m interested in AWS & Flutter
-  - 🧑🏻‍💻 I always work on a project
-  - 🤔 How to reach me: [Linkedin](https://www.linkedin.com/in/leandro-andr%C3%A9s-chac%C3%B3n-s%C3%A1nchez-49bbb7318/)
+A seasoned Full Stack Web Developer with a passion for crafting digital experiences that truly resonate. 
 
-![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrodev1221&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodev1221&layout=compact&theme=dracula&langs_count=8)](https://github.com/leandrodev1221/github-readme-stats)
+**My Expertise:**
 
-If you find value in my efforts, you might want to support me by purchasing a coffee/tea. ☕👇
+* **Frontend:** 
+    * **React.js:** Bringing dynamic interfaces to life. 
+    * **Vue.js:** Building efficient and responsive web applications.
+* **Backend:**
+    * **Golang:**  Fast and scalable backend development.
+    * **Ruby on Rails:**  Building robust and maintainable applications with ease. 
+    * **Laravel:** A PHP framework for crafting elegant web applications.
+* **Full Stack:** 
+    * **LAMP Stack:**  A well-established foundation for web development.
+    * **SPA & LMAP Stack:**  Building modern, interactive web experiences.
 
-<a href="https://www.buymeacoffee.com/leandrodev1221" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+**My Approach:**
+
+* **User-Centric:**  I believe in designing experiences that are intuitive, engaging, and accessible to all.
+* **Scalable & Efficient:** Building applications that can grow and adapt with your business needs. 
+* **Problem Solver:**  I'm a creative thinker who thrives on tackling complex challenges.
+
+**Here's what I bring to the table:**
+
+* **Extensive experience** developing web and desktop applications.
+* **Proficiency in a wide range of technologies**.
+* **Strong communication and teamwork skills**.
+* **A passion for learning and staying ahead of the curve**.
+
+**Let's collaborate on your next project!**  💪
+
+**Find me on:**
+* **Telegram:** [[@techtrovedev](https://t.me/techtrovedev)]
+* **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/leandro-andr%C3%A9s-chac%C3%B3n-s%C3%A1nchez-49bbb7318/)]
 
 ## Technologies and Languages 
 
