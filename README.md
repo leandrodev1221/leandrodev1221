@@ -7,6 +7,7 @@ A seasoned Full Stack Web Developer with a passion for crafting digital experien
 * **Frontend:** 
     * **React.js:** Bringing dynamic interfaces to life. 
     * **Vue.js:** Building efficient and responsive web applications.
+    * **Svelte:** Building efficient and responsive web applications.
 * **Backend:**
     * **Golang:**  Fast and scalable backend development.
     * **Ruby on Rails:**  Building robust and maintainable applications with ease. 
