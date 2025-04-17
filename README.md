@@ -33,7 +33,6 @@ A seasoned Full Stack Web Developer with a passion for crafting digital experien
 
 **Find me on:**
 * **Telegram:** [[@TechTroveD](https://t.me/techtroved)]
-// * **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/leandro-andr%C3%A9s-chac%C3%B3n-s%C3%A1nchez-49bbb7318/)]
 
 ## Technologies and Languages 
 
