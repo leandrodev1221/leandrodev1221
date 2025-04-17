@@ -32,7 +32,7 @@ A seasoned Full Stack Web Developer with a passion for crafting digital experien
 **Let's collaborate on your next project!**  💪
 
 **Find me on:**
-* **Telegram:** [[@TechTroveD](https://t.me/techtroved)]
+* **Telegram:** [[@TechTroveD](https://t.me/superonedev)]
 
 ## Technologies and Languages 
 
